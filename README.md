@@ -1,0 +1,2 @@
+# ass_formater_for_wodzudio
+根据我组译制标准定制的字幕格式自动格式化脚本
